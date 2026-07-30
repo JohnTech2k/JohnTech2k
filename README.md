@@ -1,35 +1,45 @@
-# Hi 👋, I'm John Son
+<!-- PREMIUM HEADER (ANIMATED + GRADIENT BG) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Johnson&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🚀 Aspiring Full Stack Developer  
-💻 I build websites & apps for businesses  
-🔥 Founder of Achieve Web Studio  
-
----
-
-## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
-- Python
-- Flutter
-- Firebase
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=0FFFC0&center=true&vCenter=true&width=650&lines=Hey+I'm+Johnson+👋;Full+Stack+Developer;Building+Modern+Web+Apps;Welcome+to+My+GitHub" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=JohnTech2k&show_icons=true&theme=radical)
+## 👋 About Me
+
+- 💻 Full Stack Developer  
+- 🚀 Focus: Modern Web Apps  
+- 🌱 Currently learning Backend & Scaling  
+- ⚡ I turn coffee ☕ into code  
 
 ---
 
-## 🔥 Streak Stats
-![Streak](https://streak-stats.demolab.com?user=JohnTech2k&theme=radical)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/johnson2k">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:johnson2009am@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 My Projects
-🔗 Gym Website Demo: https://johntech2k.github.io/Gym-Demo/
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
 ---
 
-## 📫 Contact Me
-📧 achievewebstudio@gmail.com
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
